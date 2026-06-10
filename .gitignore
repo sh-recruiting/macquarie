@@ -1,3 +1,4 @@
 *.class
 /.claude/settings.local.json
 .idea/
+*.iml
